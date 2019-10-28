@@ -1,0 +1,13 @@
+## task 2.3 dog names
+
+library("tidyverse")
+library("readxl")
+
+d2005 <- ...
+...
+
+d2005 %>% 
+  bind_...() %>% 
+  ...
+  ggplot(...) +
+  ...
