@@ -44,5 +44,3 @@
 Используя [вот этот датасет](https://raw.githubusercontent.com/r-classes/2019_2020_ds4dh_hw_2_dplyr_tidyr_ggplot2/master/data/seattle_public_library_checkouts.xlsx), заполните пропуски в файле `task_2.3.R` в Вашем репозитории, так чтобы получившаяся программа нарисовала следующий график. На графике изображены 100 самых популярных объектов за все годы.
 
 ![](https://raw.githubusercontent.com/r-classes/2019_2020_ds4dh_hw_2_dplyr_tidyr_ggplot2/master/02_seattle.png)
-
-## Оценка: 
